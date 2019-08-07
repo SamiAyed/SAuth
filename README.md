@@ -8,8 +8,13 @@ SAuth is a social authentification module that works with access token
 
 ## Usage
 Install the dependency
+### Npm
 ```sh
 npm install sauth-token
+```
+### Yarn
+```sh
+yarn add sauth-token
 ```
 ### Setup
 ```javascript
