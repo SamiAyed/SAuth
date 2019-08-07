@@ -1,0 +1,31 @@
+{
+  "name": "sauth-token",
+  "version": "0.0.1",
+  "description": "SAuth is a social authentification module that works with access token",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/.bin/mocha --ui bdd --reporter spec --colors --exit"
+  },
+  "keywords": [
+    "auth",
+    "oauth",
+    "social",
+    "facebook",
+    "twitter",
+    "google",
+    "token",
+    "credentials"
+  ],
+  "author": "Sami Ayed <m.ayed.sami@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "got": "^9.6.0",
+    "oauth": "^0.9.15"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "mocha": "^6.2.0"
+  }
+}
