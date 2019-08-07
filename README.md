@@ -116,7 +116,7 @@ $ yarn run test
  - Add other export methods
 
 ## Author
-Sami Ayed - Software Engineer and Teach Lead
+Sami Ayed - Software Engineer and Tech Lead
 Contact: m.ayed.sami@gmail.com
 
 License
