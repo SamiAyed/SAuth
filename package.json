@@ -1,6 +1,6 @@
 {
   "name": "sauth-token",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SAuth is a social authentification module that works with access token",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,8 @@
     "test": "./node_modules/.bin/mocha --ui bdd --reporter spec --colors --exit"
   },
   "keywords": [
+    "nodejs",
+    "node",
     "auth",
     "oauth",
     "social",
