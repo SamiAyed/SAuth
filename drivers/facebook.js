@@ -7,7 +7,7 @@ class Facebook {
   }
 
   _getBaseUrl() {
-    return 'https://graph.facebook.com/v2.1';
+    return 'https://graph.facebook.com/v3.2';
   }
 
   _parseUserBody(userProfile) {
